@@ -10,20 +10,10 @@ class LinkedList {
     this.head = null;
   }
 
-  insertAtFirst(data) {
+  insertAtFirst(data) {}
 
-  }
-
-  insertAtlast(data) {
-
-  }
-  deleteAtFirst() {
-
-  }
-  deleteAtLast() {
-
-  }
-  toArray() {
-    
-  }
+  insertAtlast(data) {}
+  deleteAtFirst() {}
+  deleteAtLast() {}
+  toArray() {}
 }
